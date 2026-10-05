@@ -11,7 +11,6 @@ Furthermore, raw CRM exports frequently contain data quality defects (blank cust
 <br>
 
 The raw files can be found [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/tree/main/Files/raw_files)
-
 <br> The reconciliation engine [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/tree/main/Files/reconcilliation_engine)
 
 
@@ -40,7 +39,7 @@ The raw files can be found [here](https://github.com/SalamiEritosin/Automated-Sa
 
 4.	Variance Root-Cause Breakdown:
 
-   <br> [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/blob/main/Files/result/Reconcilliation.png)
+   <br> ![alt here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/blob/main/Files/result/Reconcilliation.png)
 
    <br>
 
