@@ -10,6 +10,13 @@ Furthermore, raw CRM exports frequently contain data quality defects (blank cust
 
 <br>
 
+The raw files can be found [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/tree/main/Files/raw_files)
+
+<br> The reconciliation engine [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/tree/main/Files/reconcilliation_engine)
+
+
+<br>
+
 **PROJECT OBJECTIVES**
 <br>
 1.	Automated Validation: Build automated Power Query validation logic on raw CRM exports to flag duplicates, missing inputs, and logic violations prior to processing.
@@ -22,7 +29,7 @@ Furthermore, raw CRM exports frequently contain data quality defects (blank cust
 
 <br>
 
-**Key Analytical Findings:**
+**KEY ANALYTICAL FINDINGS:**
 
 
 1.	Total Sales Revenue Reported (CRM): **$207,850.00**
@@ -32,6 +39,8 @@ Furthermore, raw CRM exports frequently contain data quality defects (blank cust
 3.	Gross Discrepancy (Net Variance): **-$6,550.00** (Finance exceeds Sales)
 
 4.	Variance Root-Cause Breakdown:
+
+   <br> [here](https://github.com/SalamiEritosin/Automated-Sales-VS-Finance-Reconciliation-Engine/blob/main/Files/result/Reconcilliation.png)
 
    <br>
 
